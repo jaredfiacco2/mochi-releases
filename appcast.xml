@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mochi</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 20 Mar 2026 03:23:54 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/jaredfiacco2/mochi-releases/main/Mochi.zip" length="23116379" type="application/octet-stream" sparkle:edSignature="A3p0YaWjxVkRsnV3/P09cZcIJYhblo5l62a/TofSOsqZp8FvGPhGgpgutIvUQ6vJ3+Jkmr9vvNta9+ikCXQYBg=="/>
+        </item>
+    </channel>
+</rss>
