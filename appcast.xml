@@ -4,11 +4,11 @@
         <title>Mochi</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 22 Mar 2026 15:58:05 +0000</pubDate>
+            <pubDate>Sun, 22 Mar 2026 16:16:55 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/jaredfiacco2/mochi-releases/main/Mochi.zip" length="23177343" type="application/octet-stream" sparkle:edSignature="PLYLTYgXmb//V0iA7Pqj63WcWf9ZBXzOg/V/zD4zNeywUEVjCei8U4T3libciqX2V9ORZhH/UDJmyXhkSGdpBQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/jaredfiacco2/mochi-releases/main/Mochi.zip" length="23177353" type="application/octet-stream" sparkle:edSignature="yuNnCJRkOffdZAjvMufdMT2CELzPqdRp9WuIcdqHT8z9NF6Gtj4+M5FHyzgCj7xVCeM+MyN8LB8Dz/2Vw14EDw=="/>
         </item>
     </channel>
 </rss>
